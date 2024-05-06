@@ -1,0 +1,47 @@
+[
+    {
+      "id": "1",
+      "goi": "Gói Bạc",
+      "img": ".././../../assets/bac.jpg",
+      "item1": "Truy cập vào tất cả các thiết bị tập luyện trong phòng gym.",
+      "item2": "Tham gia các lớp tập nhóm cơ bản như yoga và zumba.",
+      "item3": "Sử dụng phòng xông hơi và phòng tắm hơi ẩm.",
+      "item4": "Hỗ trợ cơ bản từ huấn luyện viên.",
+      "price": "500.000",
+      "color": "bac"
+    },
+    {
+      "id": "2",
+      "goi": "Gói Vàng",
+      "img": ".././../../assets/vang.webp",
+      "item1": "Tất cả các tiện ích của gói Bạc.",
+      "item2": "Truy cập vào các lớp tập nhóm nâng cao như pilates và boot camp.",
+      "item3": "Sử dụng các dụng cụ tập luyện ngoài trời (nếu có).",
+      "item4": "Tư vấn dinh dưỡng cơ bản.",
+      "price": "600.000",
+      "color": "vang"
+    },
+    {
+      "id": "3",
+      "goi": "Gói Bạch Kim",
+      "img": ".././../../assets/bachkim.jpg",
+      "item1": "Tất cả các tiện ích của gói Vàng",
+      "item2": "Sử dụng các phòng massage và các dịch vụ spa khác (nếu có)",
+      "item3": "Hỗ trợ tập luyện cá nhân từ huấn luyện viên",
+      "item4": "Tư vấn dinh dưỡng cao cấp.",
+      "price": "700.000",
+      "color": "bachkim"
+    },
+    {
+      "id": "4",
+      "goi": "Gói Kim Cương",
+      "img": ".././../../assets/kimcuong.jpg",
+      "item1": "Tất cả các tiện ích của gói Bạch Kim.",
+      "item2": "Dịch vụ tư vấn dinh dưỡng chi tiết và theo dõi.",
+      "item3": "Kiểm tra sức khỏe định kỳ và theo dõi tiến độ tập luyện cá nhân.",
+      "item4": "Ưu đãi đặc biệt và quyền lợi cao cấp như truy cập ưu tiên và các sự kiện đặc biệt.",
+      "price": "800.000",
+      "color": "kimcuong"
+    }
+  ]
+  
