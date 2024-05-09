@@ -31,7 +31,6 @@ const createPackage = async(req,res) => {
 }
 const updatePackage = async(req,res) => {
     try {
-        console.log(req.params.id)
         await RegisterModel.updateOne({_id:req.params.id}, req.body)
         const data =req.body
         return data

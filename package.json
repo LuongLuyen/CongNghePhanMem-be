@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "demo nodejs",
   "main": "index.js",
+  "engines": {
+    "node": "14.x"
+  },
   "scripts": {
     "dev": "nodemon src/index.js",
     "build": "babel src -d build --copy-files",
