@@ -4,7 +4,7 @@
   "description": "demo nodejs",
   "main": "index.js",
   "engines": {
-    "node": "14.x"
+    "node": "20.x"
   },
   "scripts": {
     "dev": "nodemon src/index.js",
